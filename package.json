@@ -1,0 +1,32 @@
+{
+  "name": "three-gltf2-loader",
+  "version": "1.0.0",
+  "description": "Node.js wrapper for the GLTF2Loader library",
+  "main": "lib/main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonio-gomez/three-gltf2-loader.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "three.js",
+    "gltf2",
+    "gltf",
+    "loader",
+    "webgl",
+    "es6"
+  ],
+  "author": {
+    "name": "Antonio Gomez",
+    "email": "hello@antoniogomez.me",
+    "url": "https://github.com/antonio-gomez"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antonio-gomez/three-gltf2-loader/issues"
+  },
+  "homepage": "https://github.com/antonio-gomez/three-gltf2-loader#readme"
+}
