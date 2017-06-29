@@ -1,6 +1,6 @@
 {
 	"name": "three-gltf2-loader",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Node.js wrapper for the GLTF2Loader library",
 	"main": "lib/main.js",
 	"directories": {
