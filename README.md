@@ -38,6 +38,9 @@ console.log(typeof THREE.GLTF2Loader)
 #### Changelog
 --------
 
+**1.1.0 (Jun 28 2017)**
+* Updated to latest glTF spec from three.js r86.
+
 **1.0.0 (Mar 24 2017)**
 * Main module functionality.
 
