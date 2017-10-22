@@ -1,6 +1,6 @@
 ## Three-glTF2-loader
 
-[![npm-image](https://img.shields.io/badge/npm-v1.1.0-ff69b4.svg)](https://www.npmjs.com/package/three-gltf2-loader)
+[![npm-image](https://img.shields.io/badge/npm-v1.2.0-ff69b4.svg)](https://www.npmjs.com/package/three-gltf2-loader)
 ![version-image](https://img.shields.io/badge/license-MIT-ff69b4.svg)
 
 
@@ -38,8 +38,11 @@ console.log(typeof THREE.GLTF2Loader)
 #### Changelog
 --------
 
+**1.2.0 (Oct 22 2017)**
+* Updated to latest glTF loader from Three.js r87.
+
 **1.1.0 (Jun 28 2017)**
-* Updated to latest glTF spec from three.js r86.
+* Updated to latest glTF spec from Three.js r86.
 
 **1.0.0 (Mar 24 2017)**
 * Main module functionality.
