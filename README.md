@@ -30,7 +30,7 @@ import GLTF2Loader from 'three-gltf2-loader'
 
 GLTF2Loader(THREE)
 
-console.log(typeof THREE.GLTF2Loader)
+console.log(typeof THREE.GLTFLoader)
 // => "function"
 ```
 
